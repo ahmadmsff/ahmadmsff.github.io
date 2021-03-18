@@ -1,2 +1,2 @@
 # EnDe
-Encryption and Decryption program realtime
+Simple Encryption and Decryption program realtime
